@@ -1,2 +1,3 @@
-# Modal-Animation
-Created with CodeSandbox
+Modal and Animations
+
+-Implemented design with extra animations.
